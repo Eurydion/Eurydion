@@ -4,7 +4,6 @@
 <p align="center">
   Tech and being miserable is my favorite.
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=600&lines=Coding+while+tweaking.;Tweaking+while+coding.;Dying" />
 </p>
@@ -17,7 +16,7 @@
 - ⚡ Fun fact: I debug with `console.log` and with the guide of the holy spirit..
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwdW4wNnZuNTFsYjR6YmMwMjh2em13Y3Z0M2VzYWtlMjdxeG0xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9zWdBpxP8H41ZwLOd/giphy.giff" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwdW4wNnZuNTFsYjR6YmMwMjh2em13Y3Z0M2VzYWtlMjdxeG0xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9zWdBpxP8H41ZwLOd/giphy.gif" width="300"/>
 </p>
 
 ---
