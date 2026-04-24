@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://giphy.com/peanuts/snoopy-in-space" />
+  <img src="https://media.giphy.com/media/XXXX/giphy.gif" width="300"/>
 </p>
-
 <p align="center">
   Tech and being miserable is my favorite.
 </p>
