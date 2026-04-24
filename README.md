@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=6C4AB6&height=180&section=header&text=Eury&fontSize=50&fontColor=ffffff&](https://gifs.alphacoders.com/gifs/view/163814)animation=fadeIn" />
+  <img src="https://gifs.alphacoders.com/gifs/view/163814)animation=fadeIn" />
 </p>
 
 <p align="center">
