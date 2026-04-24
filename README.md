@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=600&lines=Writing+code+that+mostly+works.;Learning+things+one+bug+at+a+time.;Converting+coffee+into+commit+messages+☕💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=600&lines=Coding+while+tweaking.;Tweaking+while+coding.;Dying" />
 </p>
 
 ---
