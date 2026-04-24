@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/XXXX/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d2ejh1NGw0OXFmeXdpMjhod3ZqbjY4bW5nMHlxcjM2aXI5a3FyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gitdNOfXczQxBZjqd4/giphy.gif" width="300"/>
 </p>
 <p align="center">
   Tech and being miserable is my favorite.
