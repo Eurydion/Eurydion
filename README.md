@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I debug with `console.log` and with the guide of the holy spirit..
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwdW4wNnZuNTFsYjR6YmMwMjh2em13Y3Z0M2VzYWtlMjdxeG0xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9zWdBpxP8H41ZwLOd/giphy.giff" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpwdW4wNnZuNTFsYjR6YmMwMjh2em13Y3Z0M2VzYWtlMjdxeG0xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9zWdBpxP8H41ZwLOd/giphy.giff" width="100%" />
 </p>
 
 ---
