@@ -1,9 +1,5 @@
 <p align="center">
-  <h1>Eury</h1>
-</p>
-
-<p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/163814&animation=fadeIn" />
+  <img src="https://giphy.com/peanuts/snoopy-in-space" />
 </p>
 
 <p align="center">
