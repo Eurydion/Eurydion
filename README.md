@@ -34,36 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurydion&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eurydion&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Eurydion">
-    <img src="https://img.shields.io/badge/GitHub-2F2F2F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eurydion&label=Profile%20Views&color=36BCF7&style=flat" />
 </p>
 
-<p align="center">
-  <i>Built with code, coffee, Music, Tech, and structured chaos.</i>
-</p>
