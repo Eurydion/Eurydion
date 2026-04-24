@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Eury 👋</h1>
-<h3 align="center">A developer navigating Earth 🌍 through code, music, and mild existential buffering</h3>
-
 <p align="center">
-  Music • Tech • Professionally exhausted (with style)
+  Tech and being miserable is my favorite.
 </p>
 
 <p align="center">
@@ -14,9 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working on side projects that may or may not survive production  
-- 🌱 Learning new tech daily, sometimes willingly  
-- 💬 Ask me about anything code-related (or why my code broke at 2AM)  
-- ⚡ Fun fact: I debug with `console.log` and emotional resilience  
+- ⚡ Fun fact: I debug with `console.log` and with the guide of the holy spirit..
 
 ---
 
