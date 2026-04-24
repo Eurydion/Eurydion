@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/163814)&animation=fadeIn" />
+  <h1>Eury</h1>
+</p>
+
+<p align="center">
+  <img src="https://gifs.alphacoders.com/gifs/view/163814&animation=fadeIn" />
 </p>
 
 <p align="center">
